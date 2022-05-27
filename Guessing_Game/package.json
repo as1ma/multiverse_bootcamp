@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^28.1.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "guessing_game",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

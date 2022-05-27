@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    font-family: monospace;
+}
+
+/* #app{
+
+    
+} */
+
+#create-restaurant{
+    text-align: center;
+}
